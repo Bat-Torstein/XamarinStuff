@@ -1,0 +1,13 @@
+/packages
+/.vs
+/MyApp/MyApp.Droid/bin
+/MyApp/MyApp.Droid/obj
+/MyApp/MyApp.iOS/bin
+/MyApp/MyApp.iOS/obj
+/MyApp/MyApp.UWP/obj
+/MyApp/MyApp.UWP/bin
+/MyApp/MyApp.Windows/obj
+/MyApp/MyApp.Windows/bin
+/MyApp/MyApp.WinPhone/obj
+/MyApp/MyApp.WinPhone/bin
+/MyApp/MyApp.UWP/project.lock.json

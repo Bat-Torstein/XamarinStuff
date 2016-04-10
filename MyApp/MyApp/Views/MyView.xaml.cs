@@ -1,4 +1,5 @@
-﻿using MyApp.ViewModels;
+﻿using System;
+using MyApp.ViewModels;
 using Xamarin.Forms;
 
 namespace MyApp.Views
